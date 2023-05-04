@@ -1,0 +1,4 @@
+-IZ:\Skola\Maskinorienterad Programmering\Maskinorienterad Programmering\Maskinorienterad Programmering\Labb-2-slutgiltig\Labb2-2
+-DSIMULATOR
+-target
+
