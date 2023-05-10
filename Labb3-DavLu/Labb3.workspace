@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Labb3" Database="" Version="10000">
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="3.1-polygon" ConfigName="Debug"/>
+      <Project Name="3.2-pong" ConfigName="Debug"/>
+      <Project Name="3.3-spindel" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="3.1-polygon" ConfigName="Release"/>
+      <Project Name="3.2-pong" ConfigName="Release"/>
+      <Project Name="3.3-spindel" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
