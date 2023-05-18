@@ -1,0 +1,4 @@
+-IZ:\Skola\Maskinorienterad Programmering\Labb 5\Autopong
+-DSIMULATOR
+-target
+

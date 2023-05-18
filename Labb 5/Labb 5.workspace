@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Labb 5" Database="" Version="10000">
+  <Project Name="Autopong" Path="Autopong/Autopong.project" Active="No"/>
+  <Project Name="Spindeljakt-modified" Path="Spindeljakt-modified/Spindeljakt-modified.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="Autopong" ConfigName="Debug"/>
+      <Project Name="5.1" ConfigName="Debug"/>
+      <Project Name="Spindeljakt-modified" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="Autopong" ConfigName="Release"/>
+      <Project Name="5.1" ConfigName="Release"/>
+      <Project Name="Spindeljakt-modified" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
