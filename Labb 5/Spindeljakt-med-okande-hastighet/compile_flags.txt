@@ -1,0 +1,4 @@
+-IZ:\Skola\Maskinorienterad Programmering\Labb 5\Spindeljakt-med-okande-hastighet
+-DSIMULATOR
+-target
+
